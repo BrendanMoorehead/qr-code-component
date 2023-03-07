@@ -27,7 +27,7 @@ body{
 }
 .Card--Content__Wrapper{
   max-width: 85%;
-  padding-bottom: 0px;
+  padding-bottom: 30px;
 }
 
 .Card--Content__Wrapper__Header{
